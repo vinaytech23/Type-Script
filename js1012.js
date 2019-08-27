@@ -1,0 +1,1 @@
+let x = require("./ts1011.ts");
